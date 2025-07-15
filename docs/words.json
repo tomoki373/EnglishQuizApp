@@ -1,5 +1,10 @@
 [
-  { "english": "apple", "japanese": "りんご" },
-  { "english": "dog", "japanese": "いぬ" },
-  { "english": "book", "japanese": "本" }
+  {
+    "english": "apple",
+    "japanese": "りんご"
+  },
+  {
+    "english": "banana",
+    "japanese": "バナナ"
+  }
 ]
